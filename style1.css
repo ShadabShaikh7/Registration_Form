@@ -16,8 +16,8 @@ body{
     align-items: center;
 }
 .inside-main{
-    height: 60%;
-    width: 400px;
+    height: 380px;
+    width: 340px;
     min-width: 200px;
     background-color: rgb(53, 50, 50);
     box-sizing: border-box;
@@ -38,7 +38,7 @@ input{
     padding: 0 5px;
 }
 #btn{
-    padding: 12px 18px;
+    padding: 8px 15px;
     background-color: #0ba6ff;
     border: none;
     border-radius: 10px;
@@ -50,7 +50,7 @@ input{
 #SignUp{
     margin-left: 18%;
     color: rgb(84, 84, 242);
-    font-size: 22px;
+    font-size: 20px;
    
 }
 h2{
@@ -58,5 +58,6 @@ h2{
     letter-spacing: 5px;
     color: white;
     font-size: 36px;
+    margin: 20px;
 }
 

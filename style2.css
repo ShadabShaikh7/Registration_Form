@@ -16,7 +16,7 @@ body{
     align-items: center;
 }
 .inside-main{
-    height: 80%;
+    height: 550px;
     width: 450px;
     min-width: 200px;
     background-color: rgb(53, 50, 50);
@@ -37,7 +37,7 @@ input{
     padding: 0 5px;
 }
 #btn{
-    padding: 12px 18px;
+    padding: 8px 15px;
     background-color: #0ba6ff;
     border: none;
     border-radius: 10px;
@@ -47,9 +47,9 @@ input{
     color: white;
 }
 #Login{
-    margin-left: 14%;
+    margin-left: 18%;
     color: rgb(84, 84, 242);
-    font-size: 22px;
+    font-size: 20px;
    
 }
 h2{
@@ -57,5 +57,6 @@ h2{
     letter-spacing: 5px;
     color: white;
     font-size: 36px;
+    margin: 15px 0;
 }
 
